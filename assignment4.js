@@ -65,7 +65,6 @@ document.getElementById("today").innerHTML = res;
 create a concatenated string variable that includes other
 embedded variables concatenated together. output to page or consol
 "if" conditional statement
-switch statement
-string method
+
 number method
 */
